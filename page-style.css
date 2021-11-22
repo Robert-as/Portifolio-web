@@ -6,3 +6,41 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
 }
+body {
+    background-color: #D3D3D3;
+    text-align: center;
+}
+strong {
+    color: #161A1D;
+}
+h1, h2 {
+    color: #40191C;
+}
+#blog {
+    background-color: #611618;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 6px;
+}
+#logo {
+    border-radius: 25px;
+}
+#minha-foto {
+    padding: 15px auto;
+    margin: auto 150px;
+}
+ul{
+    width: 100px;
+    padding: 15px 410px;
+    text-align: center;
+    
+}
+#N1 {
+    font-size: 130%;
+}
+#N2 {
+    font-size: 120%;
+}
+#N3 {
+    font-size: 115%;
+}
